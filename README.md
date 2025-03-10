@@ -13,12 +13,21 @@
 
 I acquired the data by scraping off a bunch of websites. I started with scraping the data from slogan-list.com (using basic Python libraries - beautiful soup and requests)
 
+## 数据集链接 
+
+[slogan dataset](https://www.kaggle.com/datasets/chaibapat/slogan-dataset)
+
 # product advertising data：
 
 ## content
 Explore the dynamics of advertising impact on product sales with this synthesized dataset. Created using Python programming language, the dataset comprises **seven columns** representing advertising costs on various platforms — **TV, Billboards, Google Ads, Social Media, Influencer Marketing, and Affiliate Marketing**. The last column, **'Product_Sold'** quantifies the corresponding number of **units sold.** This dataset is designed for analysis and experimentation, allowing you to delve into the relationships between different advertising channels and the resulting product sales. Gain insights into marketing strategies and optimize your approach using this comprehensive, yet user-friendly dataset.
 
 This file, named **Advertising_Data.csv** contains a dataset meticulously created for **analytical exploration.** With 300 rows of data, it encapsulates advertising costs across various platforms **(TV, Billboards, Google Ads, Social Media, Influencer Marketing, and Affiliate Marketing)**. The seventh column **'Product_Sold'** quantifies the respective number of units sold. This dataset serves as a valuable resource for investigating the impact of advertising on product sales. The simplicity of the file structure makes it easy to analyze and draw insights into effective marketing strategies.
+
+## 数据集链接 
+
+[product advertising data](https://www.kaggle.com/datasets/singhnavjot2062001/product-advertising-data)
+
 
 # Retail transaction dataset
 
@@ -35,6 +44,12 @@ Unlocking insights into consumer behavior and retail dynamics, this comprehensiv
 8. `ProductCategory:` Category to which the product belongs.
 9. `DiscountApplied(%):` Percentage of the discount applied to the product.
 10. `TotalAmount:` Total amount paid for the transaction.
+
+## 数据集链接 
+
+[retail transaction dataset](https://www.kaggle.com/datasets/fahadrehman07/retail-transaction-dataset)
+
+
 
 # Amazon consumer behaviour dataset
 
@@ -83,3 +98,8 @@ Unlocking insights into consumer behavior and retail dynamics, this comprehensiv
 23.Service_Appreciation =What aspects of Amazon's services do you appreciate the most?
 
 24.Improvement_Areas =Are there any areas where you think Amazon can improve?
+
+
+## 数据集链接 
+
+[Amazon consumer behaviour dataset](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset)
