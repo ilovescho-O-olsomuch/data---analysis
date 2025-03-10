@@ -105,5 +105,5 @@ Unlocking insights into consumer behavior and retail dynamics, this comprehensiv
 [Amazon consumer behaviour dataset](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset)
 
 
-# 数据分析项目的难易程度分类
-## 零售客户价值分类 > 广告渠道归因 > 亚马逊用户行为分析与评论情感洞察 > 品牌口号分析与市场趋势
+# 数据分析项目的困难程度分类
+## 零售客户价值分类 < 广告渠道归因 < 亚马逊用户行为分析与评论情感洞察 < 品牌口号分析与市场趋势
